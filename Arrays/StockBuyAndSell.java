@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+
 public class StockBuyAndSell {
     public int maxProfit(int[] prices) {
         if (prices.length == 1) {

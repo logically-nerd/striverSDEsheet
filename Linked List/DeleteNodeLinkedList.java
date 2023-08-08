@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/delete-node-in-a-linked-list/
+
 public class DeleteNodeLinkedList {
     public void deleteNode(ListNode node) {
         ListNode curr = node;

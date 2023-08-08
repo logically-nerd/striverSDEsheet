@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/pascals-triangle/
+
 import java.util.*;
 class Solution {
     public List<List<Integer>> generate(int numRows) {

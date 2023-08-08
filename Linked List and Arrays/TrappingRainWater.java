@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/trapping-rain-water/
+
 public class TrappingRainWater {
     public int trap(int[] height) {
         int l=0,r=height.length-1;

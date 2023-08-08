@@ -1,3 +1,6 @@
+//https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1
+
+
 import java.util.Scanner;
 
 public class FlattenLinkedList {

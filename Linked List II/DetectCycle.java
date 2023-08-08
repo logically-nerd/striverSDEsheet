@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/linked-list-cycle/
+
 public class DetectCycle {
     public boolean hasCycle(ListNode head) {
         if(head==null){

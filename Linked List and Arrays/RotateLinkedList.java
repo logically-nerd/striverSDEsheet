@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/rotate-list/description/
+
 public class RotateLinkedList {
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null) {

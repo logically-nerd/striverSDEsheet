@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/intersection-of-two-linked-lists/
+
 public class IntersectionOfLinkedList {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
         ListNode curA=headA,curB=headB;

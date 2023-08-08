@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/3sum/
+
 public class TripletSum {
     public List<List<Integer>> threeSum(int[] nums) {
         Arrays.sort(nums);

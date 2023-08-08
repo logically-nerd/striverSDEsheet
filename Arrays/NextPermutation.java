@@ -1,3 +1,5 @@
+//https://leetcode.com/problems/next-permutation/
+
 public class NextPermutation {
     public void nextPermutation(int[] nums) {
         int flag = -1;
