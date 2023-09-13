@@ -2,9 +2,6 @@
 
 public class KthElementInTwoSortedArrays {
     public long kthElement(int arr1[], int arr2[], int m, int n, int k) {
-        if (arr1.length < arr2.length) {
-            return kthElement(arr2, arr1, n, m, k);
-        }
         int low = 0;
         int high = k <= m ? k : m;
         while (low <= high) {
