@@ -1,3 +1,6 @@
 # Striver SDE Sheet
+
 This repo contains solutions to **StriversSheetChallenge**.
-Solutions for all the problems will be uploaded in java, python, and javascript.
+
+I am currently learning Java, Python, and JavaScript. 
+To solve this problem, I will implement a solution in each of these languages.
